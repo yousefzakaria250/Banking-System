@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595678129 source:f:\c++projects by code blocks\banking system 1\main.cpp
+	<iostream>
+	<process.h>
+	<stdlib.h>
+
